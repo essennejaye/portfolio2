@@ -1,6 +1,6 @@
 import React from 'react';
 import About from '../About';
-import Projects from '../Projects';
+import Project from '../Project';
 import Resume from '../Resume';
 // import PageSelected from '../PageSelected';
 
@@ -10,8 +10,8 @@ const Pages = ({ currentPage }) => {
     switch (currentPage.name) {
       case 'about me':
         return <About />;
-      case 'projects':
-        return <Projects />;
+      case 'project':
+        return <Project />;
       case 'resume':
         return <Resume />
       default:

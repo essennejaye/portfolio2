@@ -187,7 +187,7 @@ ul.skills img {
   padding: 15px;
   justify-content: space-around;
 }
-.project-container:after {
+/* .project-container:after {
   content: '';
   display: block;
   margin: 0 auto;
@@ -200,19 +200,19 @@ ul.skills img {
 }
 .project-container:nth-child(even) {
   flex-direction: row-reverse;
-}
+} */
 .project-img img {
   width: 500px;
   padding: 5px;
   border-radius: 15px;
   opacity: 0.8;
 }
-.project-img img:hover {
+/* .project-img img:hover {
   opacity: 1.0;
   border: solid 1px var(--primary); 
   border-radius: 10px;
   box-shadow: 0 0 10px var(--primary);
-}
+} */
 
 /* project text description and links */
 .text-block
@@ -220,16 +220,34 @@ ul.skills img {
   color: var(--secondary);
   padding: 5px 15px;
   width: 500px;
-  text-align: center;
+  /* text-align: center; */
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
 }
 .text-block p {
   white-space: pre-line;
   font-size: 22px;
   margin: 0px 15px;
+}
+.carousel-caption p {
+  white-space: pre-line;
+}
+.carousel-caption {
+  position: relative;
+  color:#000;
+  padding: 20px 0px;
+  right: 0%;
+  left: 0px;
+  bottom:0px;
+  z-index: unset;
+}
+.carousel-indicators li {
+  background-color: #000;
+}
+.carousel-inner {
+  padding-bottom: 25px;
 }
 a {
   color: var(--secondary);
@@ -238,13 +256,16 @@ a {
 button {
   background-color: var(--primary);
   border-radius: 5px;
-  margin: 10px 0px;
+  margin: 10px 15px;
   width: 95px;
   height: 39px;
 }
 a.button-link  {
   color: var(--secondary);
   text-decoration: none;
+}
+.fa-1x {
+  font-size: 1.25em; 
 }
 a.button-link:hover{
   color: var(--tertiary);
