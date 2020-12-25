@@ -2,9 +2,9 @@
 
 ## My Portfolio Page Created with React
 
-### This page presents the repository and published sites for the web development projects of Satalia Jefferson
+### This revised page presents the repository and published sites for the web development projects of Satalia Jefferson
 
-https://essennejaye.github.io/webdev-showcase/
+https://essennejaye.github.io/portfolio2/
 
 ## Code snippet
 

@@ -181,12 +181,12 @@ ul.skills img {
 }
 
 /* project screenshot section */
-.project-container {
+/* .project-container {
   display: flex;
   flex-wrap: wrap;
   padding: 15px;
   justify-content: space-around;
-}
+} */
 /* .project-container:after {
   content: '';
   display: block;
@@ -201,12 +201,12 @@ ul.skills img {
 .project-container:nth-child(even) {
   flex-direction: row-reverse;
 } */
-.project-img img {
+/* .project-img img {
   width: 500px;
   padding: 5px;
   border-radius: 15px;
   opacity: 0.8;
-}
+} */
 /* .project-img img:hover {
   opacity: 1.0;
   border: solid 1px var(--primary); 
@@ -215,24 +215,42 @@ ul.skills img {
 } */
 
 /* project text description and links */
-.text-block
+/* .text-block
 {
   color: var(--secondary);
   padding: 5px 15px;
   width: 500px;
-  /* text-align: center; */
+  text-align: center;
   display: flex;
-  /* flex-direction: column; */
+  flex-direction: column;
   align-items: center;
-  /* justify-content: center; */
+  justify-content: center;
 }
 .text-block p {
   white-space: pre-line;
   font-size: 22px;
   margin: 0px 15px;
+} */
+
+.carousel-control-next,
+.carousel-control-prev {
+  width: 5%;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  background-color: darkgoldenrod;
+  width: 30px;
+  height: 30px;
+}
+.carousel-inner {
+  margin:5px auto 0px auto;
+  width: 85%;
+  padding-bottom: 25px;
 }
 .carousel-caption p {
   white-space: pre-line;
+  font-size: 22px;
+  margin: 0px 15px;
 }
 .carousel-caption {
   position: relative;
@@ -245,9 +263,6 @@ ul.skills img {
 }
 .carousel-indicators li {
   background-color: #000;
-}
-.carousel-inner {
-  padding-bottom: 25px;
 }
 a {
   color: var(--secondary);
@@ -265,7 +280,7 @@ a.button-link  {
   text-decoration: none;
 }
 .fa-1x {
-  font-size: 1.25em; 
+  font-size: 1.30em; 
 }
 a.button-link:hover{
   color: var(--tertiary);
@@ -273,7 +288,7 @@ a.button-link:hover{
 button:hover {
   background-color: white;
 }
-.scrollTop {
+/* .scrollTop {
   position: fixed; 
   width: 100%;
   bottom: 20px;
@@ -296,7 +311,7 @@ button:hover {
   100% {
     opacity: 0.5;
   }
-}
+} */
 
 /* resume */
 iframe {
