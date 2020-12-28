@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.8b838292.chunk.css",
-    "main.js": "/portfolio2/static/js/main.d67ec65a.chunk.js",
-    "main.js.map": "/portfolio2/static/js/main.d67ec65a.chunk.js.map",
+    "main.css": "/portfolio2/static/css/main.c9f0eed8.chunk.css",
+    "main.js": "/portfolio2/static/js/main.9f70dbe2.chunk.js",
+    "main.js.map": "/portfolio2/static/js/main.9f70dbe2.chunk.js.map",
     "runtime-main.js": "/portfolio2/static/js/runtime-main.1ee5a9c2.js",
     "runtime-main.js.map": "/portfolio2/static/js/runtime-main.1ee5a9c2.js.map",
     "static/js/2.0eaa92fa.chunk.js": "/portfolio2/static/js/2.0eaa92fa.chunk.js",
     "static/js/2.0eaa92fa.chunk.js.map": "/portfolio2/static/js/2.0eaa92fa.chunk.js.map",
     "index.html": "/portfolio2/index.html",
-    "precache-manifest.568144520b050cb90edbc7cb174607c8.js": "/portfolio2/precache-manifest.568144520b050cb90edbc7cb174607c8.js",
+    "precache-manifest.2a8a510c8c4105cd01d738349fa8b28a.js": "/portfolio2/precache-manifest.2a8a510c8c4105cd01d738349fa8b28a.js",
     "service-worker.js": "/portfolio2/service-worker.js",
-    "static/css/main.8b838292.chunk.css.map": "/portfolio2/static/css/main.8b838292.chunk.css.map",
+    "static/css/main.c9f0eed8.chunk.css.map": "/portfolio2/static/css/main.c9f0eed8.chunk.css.map",
     "static/js/2.0eaa92fa.chunk.js.LICENSE.txt": "/portfolio2/static/js/2.0eaa92fa.chunk.js.LICENSE.txt",
     "static/media/Orange-Background-Wallpaper-HD-16464.png": "/portfolio2/static/media/Orange-Background-Wallpaper-HD-16464.ea9675e0.png",
     "static/media/ProfilePic.jpg": "/portfolio2/static/media/ProfilePic.0805a345.jpg",
@@ -18,21 +18,21 @@
     "static/media/github_icon.png": "/portfolio2/static/media/github_icon.b19a8700.png",
     "static/media/html-5-logo.png": "/portfolio2/static/media/html-5-logo.d7ee9fab.png",
     "static/media/linkedin_icon.png": "/portfolio2/static/media/linkedin_icon.cea96a50.png",
-    "static/media/my-schtick-kick.png": "/portfolio2/static/media/my-schtick-kick.5dc6d17f.png",
-    "static/media/mydigilib.png": "/portfolio2/static/media/mydigilib.01fddcc8.png",
+    "static/media/my-schtick-kick.png": "/portfolio2/static/media/my-schtick-kick.5abd2376.png",
+    "static/media/mydigilib.png": "/portfolio2/static/media/mydigilib.54d85114.png",
     "static/media/responsive-web-design.png": "/portfolio2/static/media/responsive-web-design.6ca02c9b.png",
-    "static/media/rv-roadtrip.png": "/portfolio2/static/media/rv-roadtrip.afe9466b.png",
-    "static/media/weather-dashboard.png": "/portfolio2/static/media/weather-dashboard.e31c1624.png",
-    "static/media/web-dev-op-ed.png": "/portfolio2/static/media/web-dev-op-ed.88dcc59d.png",
+    "static/media/rv-roadtrip.png": "/portfolio2/static/media/rv-roadtrip.67e32f9c.png",
+    "static/media/weather-dashboard.png": "/portfolio2/static/media/weather-dashboard.2a36ac2b.png",
+    "static/media/web-dev-op-ed.png": "/portfolio2/static/media/web-dev-op-ed.dfb8ed29.png",
     "static/media/webdev_ss1.png": "/portfolio2/static/media/webdev_ss1.f0d7e81d.png",
     "static/media/webdev_ss2.png": "/portfolio2/static/media/webdev_ss2.bffaf160.png",
     "static/media/webdev_ss3.png": "/portfolio2/static/media/webdev_ss3.09458d92.png",
-    "static/media/workday-scheduler.png": "/portfolio2/static/media/workday-scheduler.b9f27390.png"
+    "static/media/workday-scheduler.png": "/portfolio2/static/media/workday-scheduler.a4137cb6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1ee5a9c2.js",
     "static/js/2.0eaa92fa.chunk.js",
-    "static/css/main.8b838292.chunk.css",
-    "static/js/main.d67ec65a.chunk.js"
+    "static/css/main.c9f0eed8.chunk.css",
+    "static/js/main.9f70dbe2.chunk.js"
   ]
 }

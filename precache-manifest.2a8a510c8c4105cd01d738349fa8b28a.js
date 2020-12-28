@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f971bc50864124dcd28bc68219240ad8",
+    "revision": "c876bd7944e03157454ca2f9c886e537",
     "url": "/portfolio2/index.html"
   },
   {
-    "revision": "481c12a8576a12451829",
-    "url": "/portfolio2/static/css/main.8b838292.chunk.css"
+    "revision": "f3cb81adbfca825dd675",
+    "url": "/portfolio2/static/css/main.c9f0eed8.chunk.css"
   },
   {
     "revision": "1192bcbf24f434f9c7d1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2/static/js/2.0eaa92fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "481c12a8576a12451829",
-    "url": "/portfolio2/static/js/main.d67ec65a.chunk.js"
+    "revision": "f3cb81adbfca825dd675",
+    "url": "/portfolio2/static/js/main.9f70dbe2.chunk.js"
   },
   {
     "revision": "4b059261683b5be75625",
@@ -48,28 +48,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2/static/media/linkedin_icon.cea96a50.png"
   },
   {
-    "revision": "5dc6d17f12a1e248bdf12736d0376a03",
-    "url": "/portfolio2/static/media/my-schtick-kick.5dc6d17f.png"
+    "revision": "5abd23769b3f8bc24ed8ac91336c1812",
+    "url": "/portfolio2/static/media/my-schtick-kick.5abd2376.png"
   },
   {
-    "revision": "01fddcc86a6d9e3bfd792e9245893867",
-    "url": "/portfolio2/static/media/mydigilib.01fddcc8.png"
+    "revision": "54d851147d0f46dff9758a0841d7a421",
+    "url": "/portfolio2/static/media/mydigilib.54d85114.png"
   },
   {
     "revision": "6ca02c9b7069582ce35cf477289274c6",
     "url": "/portfolio2/static/media/responsive-web-design.6ca02c9b.png"
   },
   {
-    "revision": "afe9466b71982d547d38f064b02f3f83",
-    "url": "/portfolio2/static/media/rv-roadtrip.afe9466b.png"
+    "revision": "67e32f9ce7968e28fe37af35ab19a8f4",
+    "url": "/portfolio2/static/media/rv-roadtrip.67e32f9c.png"
   },
   {
-    "revision": "e31c1624fd0b7aa866dfea6ab6a7644e",
-    "url": "/portfolio2/static/media/weather-dashboard.e31c1624.png"
+    "revision": "2a36ac2ba66b3560e62bcfa999925e5b",
+    "url": "/portfolio2/static/media/weather-dashboard.2a36ac2b.png"
   },
   {
-    "revision": "88dcc59d571cf45a95cf636b79b0bc5c",
-    "url": "/portfolio2/static/media/web-dev-op-ed.88dcc59d.png"
+    "revision": "dfb8ed2919c02676368fd516631af7e9",
+    "url": "/portfolio2/static/media/web-dev-op-ed.dfb8ed29.png"
   },
   {
     "revision": "f0d7e81d6313afb660fba13df29dfdec",
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio2/static/media/webdev_ss3.09458d92.png"
   },
   {
-    "revision": "b9f273909fa305cc2280a6c326a05e2f",
-    "url": "/portfolio2/static/media/workday-scheduler.b9f27390.png"
+    "revision": "a4137cb6a599405636a305986c712539",
+    "url": "/portfolio2/static/media/workday-scheduler.a4137cb6.png"
   }
 ]);
