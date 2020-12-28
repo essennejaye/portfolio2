@@ -177,6 +177,9 @@ ul.skills img {
 }
 
 /* Carousel styling */
+.carousel {
+  height: 80vh;
+}
 .carousel-control-next,
 .carousel-control-prev {
   width: 10%;
@@ -192,11 +195,6 @@ ul.skills img {
   width: 80vw;
   padding-bottom: 25px;
 }
-.carousel-caption p {
-  white-space: pre-line;
-  font-size: 22px;
-  margin: 0px 15px;
-}
 .carousel-caption {
   position: relative;
   color: #000;
@@ -205,10 +203,17 @@ ul.skills img {
   left: 0px;
   bottom: 0px;
   z-index: unset;
+  height: 200px;
+}
+.carousel-caption p {
+  white-space: pre-line;
+  font-size: 22px;
+  margin: 0px 15px;
 }
 .carousel-indicators li {
   background-color: var(--primary-bold);
   opacity: 0.4;
+  height: 6px;
 }
 /* project links */
 a {
@@ -373,8 +378,12 @@ p {
     width: 20px;
     height: 20px;
   }
+  .carousel-caption {
+    height: 38vh;
+    padding-bottom: 0;
+  }
   .carousel-caption p {
-    font-size: 18px;
+    font-size: 16px;
   }
   .footer {
     flex-direction: column;
@@ -400,5 +409,11 @@ p {
   }
   .nav-bar span {
     padding: 0px;
+  }
+  .carousel {
+    height: 80vh;
+  }
+  .carousel-caption {
+    height: 46vh;
   }
 }
