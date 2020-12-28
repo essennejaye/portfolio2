@@ -1,8 +1,7 @@
 import React from 'react';
 import About from '../About';
-import Project from '../Project';
+import Projects from '../Projects';
 import Resume from '../Resume';
-// import PageSelected from '../PageSelected';
 
 const Pages = ({ currentPage }) => {
 
@@ -11,7 +10,7 @@ const Pages = ({ currentPage }) => {
       case 'about me':
         return <About />;
       case 'project':
-        return <Project />;
+        return <Projects />;
       case 'resume':
         return <Resume />
       default:
@@ -20,7 +19,6 @@ const Pages = ({ currentPage }) => {
   };
   return (
     <div>
-      {/* <PageSelected> {renderPage()} </PageSelected> */}
       {renderPage()}
     </div>
   )
